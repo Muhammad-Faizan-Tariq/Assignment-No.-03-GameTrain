@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Ali",
+    "age": 21,
+    "city": "Lahore"
+  },
+  {
+    "id": 2,
+    "name": "Ahsan",
+    "age": 22,
+    "city": "Multan"
+  },
+  {
+    "id": 3,
+    "name": "Bilal",
+    "age": 23,
+    "city": "Karachi"
+  },
+  {
+    "id": 4,
+    "name": "Bahkat",
+    "age": 22,
+    "city": "Lahore"
+  },
+  {
+    "id": 5,
+    "name": "Dawood",
+    "age": 21,
+    "city": "Karachi"
+  },
+  {
+    "id": 6,
+    "name": "Daniyal",
+    "age": 20,
+    "city": "Lahore"
+  },
+  {
+    "id": 7,
+    "name": "Faizan",
+    "age": 22,
+    "city": "Multan"
+  },
+  {
+    "id": 8,
+    "name": "Faizan",
+    "age": 20,
+    "city": "Lahore"
+  },
+  {
+    "id": 9,
+    "name": "Nadeem",
+    "age": 23,
+    "city": "Multan"
+  },
+  {
+    "id": 10,
+    "name": "Naveed",
+    "age": 21,
+    "city": "Karachi"
+  }
+]
